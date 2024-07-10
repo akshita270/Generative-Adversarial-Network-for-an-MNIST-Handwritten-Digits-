@@ -1,0 +1,1 @@
+The primary objective of this project is to design and implement a Generative Adversarial Network (GAN) using Keras to generate realistic-looking handwritten digits similar to those in the MNIST dataset. GANs consist of two neural networks, the generator and the discriminator, which are trained simultaneously through adversarial processes.
